@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-quick-start';
+  // title = 'angular-quick-start';
+  title = '앵귤러퀵스타트';
 }
